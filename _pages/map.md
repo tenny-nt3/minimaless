@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Map
-permalink: /contact/
+permalink: /map/
 ---
 
 _Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i) here.
