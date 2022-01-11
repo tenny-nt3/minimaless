@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Me
-permalink: /setup/
+permalink: /me/
 ---
 
 # Features
