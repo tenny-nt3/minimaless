@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Viet
-permalink: /about/
+permalink: /viet/
 ---
 
 Lorem ipsum abc xyz
