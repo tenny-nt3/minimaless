@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Features & Setup
+title: Me
 permalink: /setup/
 ---
 
