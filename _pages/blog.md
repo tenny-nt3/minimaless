@@ -1,5 +1,5 @@
 ---
-layout: blog
-title: Blog
+layout: page
+title: Homep
 permalink: /
 ---
