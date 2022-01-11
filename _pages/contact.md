@@ -1,5 +1,5 @@
 ---
+layout: page
 title: Contact
-permalink: /github/
-redirect_to: /
+permalink: /
 ---
