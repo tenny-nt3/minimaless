@@ -1,10 +1,10 @@
 ---
 layout: about
-title: About
+title: Me
 permalink: /about/
 ---
 
-This is a Jekyll theme called Minimaless. It's forked from the popular theme Minima. It's like Minima, but there's less noise.
+Lorem ipsum abc xyz
 
 This is a good theme for portfolios and blogs. It's not a good theme for meeting hot singles in your area. You can see a production example of this site on the author's [blog](http://www.brettgardiner.net). Check out the source code for this Jekyll theme:
 
