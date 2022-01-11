@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Me
+title: Viet
 permalink: /about/
 ---
 
