@@ -27,7 +27,7 @@ paginate_path: "/page:num/"
 header_pages:
   - _pages/home.md
   - _pages/viet.md
-  - _pages/map.md
+  - _pages/map
   - _pages/me.md
   - _pages/contact.md
 
