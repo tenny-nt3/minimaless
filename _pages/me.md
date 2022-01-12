@@ -6,8 +6,8 @@ permalink: /me/
 
 # Define myself
 
-Neither a travel blogger nor a tourism expert. 
-I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.
+<p style="line-spacing: 10px;">Neither a travel blogger nor a tourism expert. 
+I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.</p>
 
 <br>
 
