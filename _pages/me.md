@@ -1,14 +1,9 @@
----
-title: Me
-/*-----------------------------------------------------------------------------------
-	Hide Page Title
------------------------------------------------------------------------------------*/
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-/** Change "33" with the page ID */
-body.page-id-33 .page-header { display: none; }
-body.page-id-33 #inner-body { padding-top: 0 !important; }
-permalink: /me/
----
+  {% include head.html %}
+
+  <body>
 
 # Define myself
 
@@ -97,3 +92,7 @@ permalink: /tag/kittens/
 ```
 
 This must be done for every new tag you create. This is the page that users will see when they click on a tag. [View the tag page here]({{site.baseurl}}/tags/).
+
+    </body>
+
+</html>
