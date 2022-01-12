@@ -35,3 +35,25 @@ td, th {
 | | | |
 | `Oct 2009 - Oct 2013` |   | <strong> International University - VNU, Ho Chi Minh, Vietnam </strong> |
 |  |  |  BA in Business Adminstration, Minor in Marketing |
+
+  
+`Sept 2021 - present` &nbsp&nbsp <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> 
+<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Master 2 of Management International Tourism </p>
+
+
+`Sept 2016 - Jul 2020`  <strong> Università di Bologna (UNIBO), Rimini, Italy </strong> 
+<p style="margin-left: 10px;"> BA in International Tourism and Leisure Industries (ITALI) </p>
+
+`Sept 2019 - Feb 2020` <strong> Kyoto University of Foreign Studies, Japan </strong> 
+<p> 6 months exchange. Focused on Destination Management and United Nations </p>
+
+`Jan 2018 - May 2018` <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
+<p> 6 months exchange. Focused on Hospitality and Restaurant Management </p>
+
+
+`July 2018` <strong> Asia Institude for Political Economy, Hong Kong </strong> 
+<p style="margin-left: 10px;"> One month summer course: Fundamentals of International Political Economy </p>
+
+
+`Oct 2009 - Oct 2013` <strong> International University - VNU, Ho Chi Minh, Vietnam </strong> 
+<p style="margin-left: 10px;"> BA in Business Adminstration, Minor in Marketing </p>
