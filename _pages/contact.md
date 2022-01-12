@@ -1,5 +1,5 @@
 ---
 layout: post
-title: contact
+title: Contact
 permalink: /contact/
 ---
