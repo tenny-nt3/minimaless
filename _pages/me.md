@@ -1,3 +1,10 @@
+---
+layout: about
+title: Me
+permalink: /me/
+---
+
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
