@@ -1,8 +1,5 @@
 ---
 title: Me
-permalink: /me/
----
-
 /*-----------------------------------------------------------------------------------
 	Hide Page Title
 -----------------------------------------------------------------------------------*/
@@ -10,6 +7,8 @@ permalink: /me/
 /** Change "33" with the page ID */
 body.page-id-33 .page-header { display: none; }
 body.page-id-33 #inner-body { padding-top: 0 !important; }
+permalink: /me/
+---
 
 # Define myself
 
