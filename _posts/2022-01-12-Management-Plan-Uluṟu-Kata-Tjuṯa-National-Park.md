@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: national-park, management-plan
----
 
+---
 
 [View full report](www.)
 
