@@ -4,12 +4,6 @@ title: Me
 permalink: /me/
 ---
 
-
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  <body>
-
 # Define myself
 
 Neither a travel blogger nor a tourism expert. 
@@ -97,7 +91,3 @@ permalink: /tag/kittens/
 ```
 
 This must be done for every new tag you create. This is the page that users will see when they click on a tag. [View the tag page here]({{site.baseurl}}/tags/).
-
-    </body>
-
-</html>
