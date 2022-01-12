@@ -1,30 +1,15 @@
 ---
 layout: page
-title: Me
+title: 
 permalink: /me/
 ---
 
-# Features
+# Define myself
 
-- Blog in markdown using [Jekyll](jekyllrb.com)!
-- Include any Font Awesome icon <i class="fa fa-check-square"></i>
-```html
-<i class="fa fa-check-square"></i>
-```
-- Use icons and other HTML mixed with your markdown
-  (ex: [external link<i class="fa fa-external-link"></i>](https://google.com){:target="\_blank"})
-```
-[external link<i class="fa fa-external-link"></i>](https://google.com){:target="_blank"}
-```
-- Use a [splash page]({{site.baseurl}}/splash/) with no header or footer
-- Include a preview of posts or not with `preview_posts: true`
-- Change the number of posts on each page with `paginate` in the config
-- [List entries by tag]({{site.baseurl}}/tags/) (see setup below to learn how to setup tag pages)
+Neither a travel blogger nor a tourism expert. 
+I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.
 
-
-
-
-# Setup
+# Education
 
 ## Deploy
 This setup guide is for deploying to Github-pages. This is a very specific method, and if you're looking for a more general setup guide, check out [this guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
