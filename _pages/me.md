@@ -15,21 +15,21 @@ I am an enthusiastic learner who is excited to share with the community what I u
   
 `Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> 
 <p> Master 2 of Management International Tourism </p>
-</br>
+
 
 `Sept 2016 - Jul 2020` &emsp; &emsp; <strong> Università di Bologna (UNIBO), Rimini, Italy </strong> 
 <p style="margin-left: 10px;"> BA in International Tourism and Leisure Industries (ITALI) </p>
 
-&emsp; `Sept 2019 - Feb 2020` &emsp; &emsp; <strong> Kyoto University of Foreign Studies, Japan </strong> 
+&emsp; `Sept 2019 - Feb 2020` &emsp; <strong> Kyoto University of Foreign Studies, Japan </strong> 
 <p> 6 months exchange. Focused on Destination Management and United Nations </p>
 
-&emsp; `Jan 2018 - May 2018` &emsp; &emsp;  <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
+&emsp; `Jan 2018 - May 2018` &emsp; <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
 <p> 6 months exchange. Focused on Hospitality and Restaurant Management </p>
-</br>
+
 
 `July 2018` &emsp; &emsp; &emsp; <strong> Asia Institude for Political Economy, Hong Kong </strong> 
 <p style="margin-left: 10px;"> One month summer course: Fundamentals of International Political Economy </p>
-</br>
+
 
 `Oct 2009 - Oct 2013` &emsp; &emsp; <strong> International University - VNU, Ho Chi Minh, Vietnam </strong> 
 <p style="margin-left: 10px;"> BA in Business Adminstration, Minor in Marketing </p>
