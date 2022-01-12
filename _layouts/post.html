@@ -15,10 +15,6 @@ layout: default
       {% endif %}</p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
   {% if page.tags != '' %}
   <div class="tags">
     <i class="fa fa-tags"></i>
@@ -29,6 +25,10 @@ layout: default
     {% endfor %}
   </div>
   {% endif %}
+  
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
