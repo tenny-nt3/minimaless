@@ -2,8 +2,8 @@
 layout: default
 title: Map
 permalink: /map/
-css: [../plugins/travelmap/css/custom.css']
-plugin: travelmap
+css: [assets/map.css]
+plugin: [assets/jquery-1.10.2.min.js]
 ---
 <head>
 
