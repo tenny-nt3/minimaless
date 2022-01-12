@@ -1,4 +1,5 @@
 ---
+title: Me
 permalink: /me/
 ---
 
