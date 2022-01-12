@@ -9,9 +9,26 @@ permalink: /me/
 Neither a travel blogger nor a tourism expert. 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.
 
+---
+
 # Education
 
-## Deploy
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+| `Sept 2021 - present` | <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> |
+|--- | --- |
+|  | Master 2 of Management International Tourism |
+
+
+
+
+
+
+
 This setup guide is for deploying to Github-pages. This is a very specific method, and if you're looking for a more general setup guide, check out [this guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 Now that GitHub does build custom Jekyll themes, you can simply add `remote_theme: brettinternet/minimaless` to the `_config.yml` file.
