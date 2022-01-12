@@ -15,11 +15,7 @@ layout: default
       {% endif %}</p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  {% if page.tags != '' %}
+ {% if page.tags != '' %}
   <div class="tags">
     <i class="fa fa-tags"></i>
     {% for tag in page.tags %}
@@ -28,7 +24,11 @@ layout: default
         <span class="tag">{{ tag | escape }}{% if count != 1 %}<span class="tag-count">({{ count }})</span>{% endif %}</span></a>
     {% endfor %}
   </div>
-  {% endif %}
+  {% endif %} 
+  
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
