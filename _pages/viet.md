@@ -1,5 +1,7 @@
 ---
-layout: blog
-title: Viet
-permalink: /viet/
+layout: contact
+title: tiengViet
+permalink: /tiengViet/
 ---
+
+Under construction
