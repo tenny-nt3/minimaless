@@ -26,12 +26,11 @@ layout: default
   </div>
   {% endif %}
  
-  {p 
-  margin-top: 30px;
-  }
+ <body>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+ </body>
     
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
