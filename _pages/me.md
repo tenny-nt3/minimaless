@@ -1,5 +1,5 @@
 ---
-layout: default-2
+layout: page
 title: Me
 permalink: /me/
 ---
