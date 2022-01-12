@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: contact
 title: Me
 permalink: /me/
 ---
