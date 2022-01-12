@@ -9,7 +9,7 @@ permalink: /me/
 Neither a travel blogger nor a tourism expert. 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.
 
----
+<br>
 
 # Education
 <br>
