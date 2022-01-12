@@ -37,8 +37,8 @@ td, th {
 |  |  |  BA in Business Adminstration, Minor in Marketing |
 
   
-`Sept 2021 - present` &nbsp&nbsp <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> 
-<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Master 2 of Management International Tourism </p>
+`Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> 
+<p> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Master 2 of Management International Tourism </p>
 
 
 `Sept 2016 - Jul 2020`  <strong> Università di Bologna (UNIBO), Rimini, Italy </strong> 
