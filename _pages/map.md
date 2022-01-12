@@ -3,6 +3,7 @@ layout: default-2
 title: Map
 permalink: /map/
 css: [../plugins/travelmap/css/custom.css']
+plugin: travelmap
 ---
 <head>
 
