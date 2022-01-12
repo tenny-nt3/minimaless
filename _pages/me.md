@@ -19,7 +19,7 @@ td, th {
 }
 </style>
 
-| `Sept 2021 - present` |  | <p style="text-align:left;"><strong>Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> |
+| `Sept 2021 - present` |  | <p style="text-align:left;"><strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong> |
 |--|--|--|
 |  |   | Master 2 of Management International Tourism |
 | | | |
