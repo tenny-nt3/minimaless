@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Me
 permalink: /me/
 ---
