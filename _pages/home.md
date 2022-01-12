@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: blog
 title: Lobby
 permalink: /
 ---
