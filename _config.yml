@@ -4,7 +4,7 @@ email: tenny.nt3@gmail.com
 description: >
   Explore different facets behind the tourism stage
 
-baseurl: "/travelmap" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.tourisminloupe.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
