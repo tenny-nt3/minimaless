@@ -1,5 +1,5 @@
 ---
-layout: default-2
+layout: default
 title: Map
 permalink: /map/
 css: [../plugins/travelmap/css/custom.css']
