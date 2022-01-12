@@ -16,7 +16,7 @@ layout: default
   </header>
 
   {% if page.tags != '' %}
-  <div class="tags">
+  <div class="tags" style="font-size:12px;">
     <i class="fa fa-tags"></i>
     {% for tag in page.tags %}
       {% assign count = site.tags[tag].size %}
