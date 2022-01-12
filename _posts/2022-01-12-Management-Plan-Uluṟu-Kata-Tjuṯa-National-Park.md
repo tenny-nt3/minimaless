@@ -2,8 +2,8 @@
 layout: post
 tags: national-park, management-plan
 ---
----
----
+
+
 [View full report](www.)
 
 Uluru - Kata Tjuta National Park is located in the Greater Sandy Desert area which includes parts of the Northern Territory and Western Australia. It can be viewed as an iconic nature of the country and renowned for its indigenous culture. 
