@@ -4,13 +4,13 @@ title: Me
 permalink: /me/
 ---
 
-# Define myself
+## Define myself
 
 <p style="line-spacing: 10px;"> Neither a travel blogger nor a tourism expert. 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.</p>
 
 
-# Education
+## Education
 
 `Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong>
 <p style="margin-left: 225px;"> Master 2 of Management International Tourism </p>
@@ -19,8 +19,8 @@ I am an enthusiastic learner who is excited to share with the community what I u
 `Sept 2016 - Jul 2020` &emsp; &nbsp; <strong> Università di Bologna (UNIBO), Rimini, Italy </strong> 
 <p style="margin-left: 225px;"> BA in International Tourism and Leisure Industries (ITALI) </p>
 
-&emsp; `Sept 2019 - Feb 2020` &ensp; <strong> Kyoto University of Foreign Studies, Japan </strong>
-<p style="margin-left: 227px;"> Exchanged. Focused on Destination Management and United Nations </p>
+&emsp; `Sept 2019 - Feb 2020` &ensp; <p style="font-size: 17px;"> <strong> Kyoto University of Foreign Studies, Japan </strong> </p>
+<p style="margin-left: 227px; font-size: 17px;"> Exchanged. Focused on Destination Management and United Nations </p>
 
 &emsp; `Jan 2018 - May 2018` &nbsp; &nbsp; <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
 <p style="margin-left: 227px;"> Exchanged. Focused on Hospitality and Restaurant Management </p>
