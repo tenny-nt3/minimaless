@@ -26,8 +26,6 @@ paginate_path: "/page:num/"
 # this and add the path to the pages in order as they should show up
 header_pages:
   - _pages/home.md
-  - _pages/viet.md
-  - _pages/map.md
   - _pages/me.md
   - _pages/contact.md
 
