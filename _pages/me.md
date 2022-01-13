@@ -19,7 +19,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 `Sept 2016 - Jul 2020` &emsp; &nbsp; <strong> Università di Bologna (UNIBO), Rimini, Italy </strong> 
 <p style="margin-left: 225px;"> BA in International Tourism and Leisure Industries (ITALI) </p>
 
-&emsp; `Sept 2019 - Feb 2020` &ensp; <p style="font-size: 17px;"> <strong> Kyoto University of Foreign Studies, Japan </strong> </p>
+&emsp; `Sept 2019 - Feb 2020` &ensp; <p style="font-size: 17px;"><strong> Kyoto University of Foreign Studies, Japan </strong></p>
 <p style="margin-left: 227px; font-size: 17px;"> Exchanged. Focused on Destination Management and United Nations </p>
 
 &emsp; `Jan 2018 - May 2018` &nbsp; &nbsp; <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
