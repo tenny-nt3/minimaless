@@ -10,11 +10,12 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 ---
 ## Education
-<p style="line-height:15px;">&emsp;</p>
+<p style="line-height:12px;">&emsp;</p>
 
 `Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong>
 <p style="margin-left: 225px; "> Master 2 of Management International Tourism </p>
-<p style="line-height:15px;">&emsp;</p>
+<p style="line-height:12px;">&emsp;</p>
+
 `Sept 2016 - Jul 2020` &emsp; &nbsp; <strong> Università di Bologna (UNIBO), Rimini, Italy </strong> 
 <p style="margin-left: 225px;"> BA in International Tourism and Leisure Industries (ITALI) </p>
 
@@ -23,10 +24,12 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 &nbsp; &emsp; `Jan 2018 - May 2018` <strong>&nbsp; Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
 <p style="margin-left: 227px; font-size: 16px;"> Exchanged. Focused on Hospitality and Restaurant Management </p>
-<p style="line-height:15px;">&emsp;</p>
+<p style="line-height:12px;">&emsp;</p>
+
 `July 2018` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Asia Institude for Political Economy, Hong Kong </strong> 
 <p style="margin-left: 225px;"> One month summer course: Fundamentals of International Political Economy </p>
-<p style="line-height:15px;">&emsp;</p>
+<p style="line-height:12px;">&emsp;</p>
+
 `Oct 2009 - Oct 2013` &emsp; &emsp; <strong> International University - VNU, Ho Chi Minh, Vietnam </strong> 
 <p style="margin-left: 225px;"> BA in Business Adminstration, Minor in Marketing </p>
 
