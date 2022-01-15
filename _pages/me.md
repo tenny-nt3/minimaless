@@ -27,6 +27,5 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 `Oct 2009 - Oct 2013` &emsp; &emsp; <strong> International University - VNU, Ho Chi Minh, Vietnam </strong> 
 <p style="margin-left: 225px;"> BA in Business Adminstration, Minor in Marketing </p>
-<br>
 
 ## Work experience 
