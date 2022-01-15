@@ -19,7 +19,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 &emsp; `Sept 2019 - Feb 2020` &ensp; <strong> Kyoto University of Foreign Studies, Japan </strong> 
 <p style="margin-left: 227px; font-size: 16px;"> Exchanged. Focused on Destination Management and United Nations </p>
 
-&nbsp; &emsp; `Jan 2018 - May 2018` <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
+&nbsp; &emsp; `Jan 2018 - May 2018` <strong>&nbsp; Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
 <p style="margin-left: 227px; font-size: 16px;"> Exchanged. Focused on Hospitality and Restaurant Management </p><br>
 
 `July 2018` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Asia Institude for Political Economy, Hong Kong </strong> 
@@ -27,4 +27,4 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 `Oct 2009 - Oct 2013` &emsp; &emsp; <strong> International University - VNU, Ho Chi Minh, Vietnam </strong> 
 <p style="margin-left: 225px;"> BA in Business Adminstration, Minor in Marketing </p>
-</div>
+
