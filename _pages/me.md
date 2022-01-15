@@ -4,11 +4,13 @@ title: Me
 permalink: /me/
 ---
 ## Define myself
+<hr>
 
 <p style="font-family: Helvetica; line-spacing: 12px; letter-spacing: 0.5px;"> Neither a travel blogger nor a tourism expert.<br> 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.</p>
 
 ## Education
+<hr>
 
 `Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong>
 <p style="margin-left: 225px; "> Master 2 of Management International Tourism </p><br>
@@ -29,3 +31,4 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="margin-left: 225px;"> BA in Business Adminstration, Minor in Marketing </p>
 
 ## Work experience 
+<hr>
