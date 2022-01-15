@@ -10,6 +10,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 ---
 ## Education
+<p style="line-height:15px;"></p>
 
 `Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong>
 <p style="margin-left: 225px; "> Master 2 of Management International Tourism </p><br>
