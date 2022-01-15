@@ -6,7 +6,7 @@ permalink: /me/
 
 <h2 style="font-weight=bold;">Define myself</h2>
 
-<p style="font-family: Helvetica; line-spacing: 12px; letter-spacing: 0.5px;"> Neither a travel blogger nor a tourism expert. 
+<p style="font-family: Helvetica; line-spacing: 12px; letter-spacing: 0.5px;"> Neither a travel blogger nor a tourism expert.<br> 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.</p>
 
 <h2 style="font-weight=bold;">Education</h2>
@@ -20,7 +20,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 &emsp; `Sept 2019 - Feb 2020` &ensp; <strong> Kyoto University of Foreign Studies, Japan </strong> 
 <p style="margin-left: 227px; font-size: 16px;"> Exchanged. Focused on Destination Management and United Nations </p>
 
-&emsp; `Jan 2018 - May 2018` &nbsp; &nbsp; <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
+&nbsp; &emsp; `Jan 2018 - May 2018` &nbsp; &nbsp; <strong> Haaga-Helia University of Applied Science, Helsinki, Finland </strong> 
 <p style="margin-left: 227px; font-size: 16px;"> Exchanged. Focused on Hospitality and Restaurant Management </p><br>
 
 `July 2018` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Asia Institude for Political Economy, Hong Kong </strong> 
