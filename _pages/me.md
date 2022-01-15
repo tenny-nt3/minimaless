@@ -4,12 +4,12 @@ title: Me
 permalink: /me/
 ---
 
-<p style="font-family: Helvetica; font-size: 30px; font-weight=bold;">Define myself</h2><br>
+<p style="font-family: Helvetica; font-size: 30px; font-weight=bold;">Define myself</p><br>
 
 <p style="font-family: Helvetica; line-spacing: 12px; letter-spacing: 0.5px;"> Neither a travel blogger nor a tourism expert.<br> 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.</p>
 
-<p style="font-family: Helvetica; font-size: 30px; font-weight=bold;">Education</h2><br>
+<p style="font-family: Helvetica; font-size: 30px; font-weight=bold;">Education</p><br>
 
 `Sept 2021 - present` &emsp; &emsp; <strong> Université Paris 1 Panthéon-Sorbonne, Paris, France </strong>
 <p style="margin-left: 225px; "> Master 2 of Management International Tourism </p><br>
