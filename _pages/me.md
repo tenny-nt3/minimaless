@@ -6,7 +6,7 @@ permalink: /me/
 
 ## Define myself
 
-<p style="line-spacing: 12px; text-spacing: 2px;"> Neither a travel blogger nor a tourism expert. 
+<p style="line-spacing: 12px; letter-spacing: 2px;"> Neither a travel blogger nor a tourism expert. 
 I am an enthusiastic learner who is excited to share with the community what I understood and experienced in the tourism industry.</p>
 
 ## Education
