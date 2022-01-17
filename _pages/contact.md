@@ -10,8 +10,7 @@ permalink: /contact/
           
           <p style="text-align: center; font-family: Helvetica; font-size: 17px;">It is my honor to hear your thoughts.</p>
           
-       #idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:50%;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;}
-        #idLinkedInIcon:hover{background-color:#06d;}
+          <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/thaontt/');" style="background-color:rgb(0, 102, 170);border-radius:50%;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;">in</div>
           
           <p style="text-align: center; font-family: Helvetica; font-size: 17px;">Email: tenny.nt3@gmail.com</p>
 
