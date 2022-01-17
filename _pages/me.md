@@ -91,6 +91,5 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 `2015 - 2017` &emsp; &emsp; **Translation from English to Vietnamese under an alias Moc Quang**
 <li style="margin-left: 20px;">(BOOK) HBR Office Politics - <a href="https://tiki.vn/hbr-guide-to-song-sot-noi-cong-so-p911388.html?spid=88229905"> Song sot noi cong so</a>
-<li style="margin-left: 20px;">  </li>
-<li style="margin-left: 20px;">  </li>
-<p style="line-height:7px;">&emsp;</p>
+<li style="margin-left: 20px;">(BOOK) Hiring and Firing - <a href="https://tiki.vn/thuat-tuyen-dung-va-sa-thai-tai-ban-2018-p1542485.html?spid=75789229"> Thuat tuyen dung va sa thai</a>
+<p style="line-height:50px;">&emsp;</p>
