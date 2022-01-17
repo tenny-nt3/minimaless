@@ -90,7 +90,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="line-height:5px;">&emsp;</p>
 
 `2015 - 2017` &emsp; &emsp; <strong> Translation from English to Vietnamese under an alias Moc Quang </strong>
-* HBR Office Politics - [Song sot noi cong so](https://tiki.vn/hbr-guide-to-song-sot-noi-cong-so-p911388.html?spid=88229905)
+&ensp;* HBR Office Politics - [Song sot noi cong so](https://tiki.vn/hbr-guide-to-song-sot-noi-cong-so-p911388.html?spid=88229905)
 <li style="margin-left: 20px; ">  </li>
 <li style="margin-left: 20px; ">  </li>
 <p style="line-height:7px;">&emsp;</p>
