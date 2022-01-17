@@ -79,7 +79,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <li style="margin-left: 20px; "> Compose PR articles on media </li>
 <p style="line-height:7px;">&emsp;</p>
 
-`2015 - 2017` &emsp; &emsp; <strong> Content writer for brands (Freelancer) </strong>
+`2015 - 2017`  &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Content writer for brands (Freelancer) </strong>
 <li style="margin-left: 20px; "> Write and format articles on SEO standard </li>
 <li style="margin-left: 20px; "> Brand Anmum. MASH by The Purpose Group </li>
 <li style="margin-left: 20px; "> Brand English programs by Vietnam USA Society English Centers (VUS) </li>
