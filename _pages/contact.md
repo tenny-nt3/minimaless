@@ -12,7 +12,7 @@ permalink: /contact/
           
           <p style="line-height:30px;">&emsp;</p>
           
-          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/thaontt/');" style="background-color:rgb(0, 102, 170);border-radius:50%;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;">in</div> &emsp;&emsp;&emsp; <a href="mailto:tenny.nt3@gmail.com"> <img src="images/navigation_icon/email.png"> </a>
+          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/thaontt/');" style="background-color:rgb(0, 102, 170);border-radius:50%;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;">in</div> &emsp;&emsp;&emsp; <a href="mailto:tenny.nt3@gmail.com"><i class="icon fa fa-envelope"></i></a>
           
           <p style="line-height:30px;">&emsp;</p>
          
