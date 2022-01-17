@@ -40,7 +40,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 ## Work experience in Tourim
 <p style="line-height:5px;">&emsp;</p>
 
-`May - July 2020` &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; <strong> Research Assistant Internship </strong>
+`May - July 2020` &emsp; &emsp; &emsp; &nbsp; &nbsp; <strong> Research Assistant Internship </strong>
 <p style="margin-left: 225px; "> <strong> Danang Tourism Department - Vietnam </strong> </p>
 <li style="margin-left: 20px; "> Conduct research to collection information about tourism market in the city </li>
 <li style="margin-left: 20px; "> Classify local tourism resources in order to build up the database for the city </li>
@@ -54,7 +54,12 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <li style="margin-left: 20px; "> Customize the itinerary on the demand of visitors </li>
 <p style="line-height:7px;">&emsp;</p>
 
-
+`Oct 2019 - Feb 2022` &emsp; &emsp; <strong> Room service (Part-time) </strong>
+<p style="margin-left: 225px; "> <strong> Hotel Nikko - Kyoto, Japan </strong> </p>
+<li style="margin-left: 20px; "> Prepare and set up room amenities </li>
+<li style="margin-left: 20px; "> Deliver orders to guest rooms </li>
+<li style="margin-left: 20px; "> Responsible for maintaining cleanliness for guest rooms </li>
+<p style="line-height:7px;">&emsp;</p>
 
 ---
 ## Work experience in Marketing
@@ -68,7 +73,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="line-height:7px;">&emsp;</p>
 
 `Oct 2014 - Dec 2015` &emsp; &emsp; <strong> Content writer </strong>
-<p style="margin-left: 225px; "> <strong> 3DMaker JSC. - Ho Chi Minh, Vietnam. </strong> </p>
+<p style="margin-left: 225px; "> <strong> 3DMaker JSC. - Ho Chi Minh, Vietnam </strong> </p>
 <li style="margin-left: 20px; "> Develop and manage the content for website: www.3dmaker.vn </li>
 <li style="margin-left: 20px; "> Plan and carry out Google Adword campaigns </li>
 <li style="margin-left: 20px; "> Compose PR articles on media </li>
