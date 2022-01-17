@@ -40,7 +40,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 ## Work experience in Tourim
 <p style="line-height:5px;">&emsp;</p>
 
-`May - July 2020` &emsp; &emsp;  &emsp; &ensp; &ensp; <strong> Research Assistant Internship </strong>
+`May - July 2020` &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; <strong> Research Assistant Internship </strong>
 <p style="margin-left: 225px; "> <strong> Danang Tourism Department - Vietnam </strong> </p>
 <li style="margin-left: 20px; "> Conduct research to collection information about tourism market in the city </li>
 <li style="margin-left: 20px; "> Classify local tourism resources in order to build up the database for the city </li>
