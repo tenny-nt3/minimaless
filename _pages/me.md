@@ -20,7 +20,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="margin-left: 225px;"> Università di Bologna (UNIBO), Rimini, Italy </p>
 <p style="margin-left: 225px;"> <strong> Thesis topic: </strong> The response of the local tourism to COVID-19 - The case of Danang City, Vietnam </p>
                        
-&emsp; `Sept 2019 - Feb 2020` &ensp; {style="font-size: 16px;" Study Destination Management and United Nations }
+&emsp; `Sept 2019 - Feb 2020` &ensp; <h5> Study Destination Management and United Nations </h5>
 <p style="margin-left: 227px; font-size: 16px;"> Kyoto University of Foreign Studies, Japan </p>
 
 &nbsp; &emsp; `Jan 2018 - May 2018` <strong>&nbsp; Study Hospitality and Restaurant Management </strong> 
@@ -41,9 +41,9 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="line-height:5px;">&emsp;</p>
 `May - July 2020` &emsp; &emsp; &emsp; &emsp; <strong> Research Assistant Internship </strong>
 <p style="margin-left: 225px; "> <strong> Danang Tourism Department - Vietnam </strong> </p>
-<li style="margin-left: 200px; "> Conduct research to collection information about tourism market in the city </li>
-<li style="margin-left: 200px; "> Classify local tourism resources in order to build up the database for the city </li>
-<li style="margin-left: 200px; "> Brainstorm and propose measures to develop and conserve tourist destinations </li>
+<li style="margin-left: 150px; "> Conduct research to collection information about tourism market in the city </li>
+<li style="margin-left: 150px; "> Classify local tourism resources in order to build up the database for the city </li>
+<li style="margin-left: 150px; "> Brainstorm and propose measures to develop and conserve tourist destinations </li>
 <p style="line-height:5px;">&emsp;</p>
 
 
