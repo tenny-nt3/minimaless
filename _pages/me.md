@@ -79,8 +79,18 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <li style="margin-left: 20px; "> Compose PR articles on media </li>
 <p style="line-height:7px;">&emsp;</p>
 
+`2015 - 2017` &emsp; &emsp; <strong> Content writer for brands (Freelancer) </strong>
+<li style="margin-left: 20px; "> Write and format articles on SEO standard </li>
+<li style="margin-left: 20px; "> Brand Anmum. MASH by The Purpose Group </li>
+<li style="margin-left: 20px; "> Brand English programs by Vietnam USA Society English Centers (VUS) </li>
+<p style="line-height:7px;">&emsp;</p>
+
 ---
 ## Work experience in Translation
 <p style="line-height:5px;">&emsp;</p>
 
-
+`2015 - 2017` &emsp; &emsp; <strong> Translation from English to Vietnamese under an alias Moc Quang </strong>
+<li style="margin-left: 20px; "> HBR Office Politics - [Song sot noi cong so](https://tiki.vn/hbr-guide-to-song-sot-noi-cong-so-p911388.html?spid=88229905) </li>
+<li style="margin-left: 20px; ">  </li>
+<li style="margin-left: 20px; ">  </li>
+<p style="line-height:7px;">&emsp;</p>
