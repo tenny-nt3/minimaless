@@ -28,7 +28,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="line-height:5px;">&emsp;</p>
 
 `July 2018` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Fundamentals of International Political Economy </strong> 
-<p style="margin-left: 225px;"> Asia Institude for Political Economy, Hong Kong (Summer course) </p>
+<p style="margin-left: 225px; font-size: 16px;"> Asia Institude for Political Economy, Hong Kong (Summer course) </p>
 <p style="line-height:5px;">&emsp;</p>
 
 `Oct 2009 - Oct 2013` &emsp; &emsp; <strong> BA in Business Adminstration, Minor in Marketing </strong> 
@@ -39,16 +39,39 @@ I am an enthusiastic learner who is excited to share with the community what I u
 ---
 ## Work experience in Tourim
 <p style="line-height:5px;">&emsp;</p>
-`May - July 2020` &emsp; &emsp; &emsp; &ensp; &nbsp; <strong> Research Assistant Internship </strong>
+
+`May - July 2020` &emsp; &emsp; &emsp; &ensp; <strong> Research Assistant Internship </strong>
 <p style="margin-left: 225px; "> <strong> Danang Tourism Department - Vietnam </strong> </p>
-<li style="margin-left: 120px; "> Conduct research to collection information about tourism market in the city </li>
-<li style="margin-left: 120px; "> Classify local tourism resources in order to build up the database for the city </li>
-<li style="margin-left: 120px; "> Brainstorm and propose measures to develop and conserve tourist destinations </li>
+<li style="margin-left: 100px; "> Conduct research to collection information about tourism market in the city </li>
+<li style="margin-left: 100px; "> Classify local tourism resources in order to build up the database for the city </li>
+<li style="margin-left: 100px; "> Brainstorm and propose measures to develop and conserve tourist destinations </li>
 <p style="line-height:5px;">&emsp;</p>
+
+`2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Tour guide </strong>
+<p style="margin-left: 225px; "> <strong> Vietravel - Vietnam </strong> </p>
+<li style="margin-left: 100px; "> Out-bound travel: Lead and monitor domestic visitors group from Vietnam to Singapore </li>
+<li style="margin-left: 100px; "> In-bound travel: Lead and monitor the city tour for foreigners traveled to Vietnam </li>
+<li style="margin-left: 100px; "> Customize the itinerary on the demand of visitors </li>
+<p style="line-height:5px;">&emsp;</p>
+
 
 
 ---
 ## Work experience in Marketing
+<p style="line-height:5px;">&emsp;</p>
+
+`2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Marketing Executives </strong>
+<p style="margin-left: 225px; "> <strong>  Codespot LTD. - Vietnam </strong> </p>
+<li style="margin-left: 100px; "> Copywriter for content of themes produced by the company </li>
+<li style="margin-left: 100px; "> Communicate the progress of monthly/quarterly initiatives to internal and external stakeholders </li>
+<li style="margin-left: 100px; "> Communication coordinator between customers and IT developers </li>
+<p style="line-height:5px;">&emsp;</p>
+
+`Oct 2014 - Dec 2015` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <strong> Content writer </strong>
+<p style="margin-left: 225px; "> <strong> 3DMaker JSC. - Ho Chi Minh, Vietnam. </strong> </p>
+<li style="margin-left: 100px; "> Develop and manage the content for website: www.3dmaker.vn </li>
+<li style="margin-left: 100px; "> Plan and carry out Google Adword campaigns </li>
+<li style="margin-left: 100px; "> Compose PR articles on media </li>
 <p style="line-height:5px;">&emsp;</p>
 
 ---
