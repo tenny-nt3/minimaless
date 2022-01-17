@@ -67,7 +67,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <li style="margin-left: 20px; "> Communication coordinator between customers and IT developers </li>
 <p style="line-height:5px;">&emsp;</p>
 
-`Oct 2014 - Dec 2015` &emsp; &emsp; &emsp; <strong> Content writer </strong>
+`Oct 2014 - Dec 2015` &emsp; &emsp; <strong> Content writer </strong>
 <p style="margin-left: 225px; "> <strong> 3DMaker JSC. - Ho Chi Minh, Vietnam. </strong> </p>
 <li style="margin-left: 20px; "> Develop and manage the content for website: www.3dmaker.vn </li>
 <li style="margin-left: 20px; "> Plan and carry out Google Adword campaigns </li>
