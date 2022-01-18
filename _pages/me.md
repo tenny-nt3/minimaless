@@ -21,10 +21,10 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="margin-left: 225px;"> <strong> Thesis topic: </strong> The response of the local tourism to COVID-19 - The case of Danang City, Vietnam </p>
                        
 &emsp; `Sept 2019 - Feb 2020` &ensp; <strong> Study Destination Management and United Nations </strong>
-<p style="margin-left: 227px; font-size: 16px;"> Kyoto University of Foreign Studies, Japan </p>
+<p style="margin-left: 227px; font-size: 16px;"> Exchanged to Kyoto University of Foreign Studies, Japan </p>
 
 &nbsp; &emsp; `Jan 2018 - May 2018` <strong>&nbsp; Study Hospitality and Restaurant Management </strong> 
-<p style="margin-left: 227px; font-size: 16px;"> Haaga-Helia University of Applied Sciences, Helsinki, Finland </p>
+<p style="margin-left: 227px; font-size: 16px;"> Exchanged to Haaga-Helia University of Applied Sciences, Helsinki, Finland </p>
 <p style="line-height:5px;">&emsp;</p>
 
 `July 2018` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Fundamentals of International Political Economy </strong> 
