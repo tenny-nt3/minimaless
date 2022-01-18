@@ -2,7 +2,6 @@
 layout: post
 title: Case study: The promotional plan of Kyoto
 tags: promotional-plan
-
 ---
 
 [Download PDF](https://www.dropbox.com/s/nvm5cgcm88ij68e/Case%20study%20-%20Kyoto%20Promotional%20Plan.pdf?dl=0)
