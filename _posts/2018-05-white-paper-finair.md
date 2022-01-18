@@ -1,6 +1,5 @@
 ---
-layout: post
-title: White paper: Finnair
+layout: post 
 tags: airlines
 ---
 
