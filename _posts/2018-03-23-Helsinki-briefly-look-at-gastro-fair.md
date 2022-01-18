@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Helsinki: Briefly look at Gastro Fair
 tag: cuisine, gastro
 ---
 [Dowload PDF](https://www.dropbox.com/s/2jb03jsie800nfy/Gastro-fair-2018.pdf?dl=0)
