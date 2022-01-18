@@ -24,7 +24,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="margin-left: 227px; font-size: 16px;"> Exchanged to Kyoto University of Foreign Studies, Japan </p>
 
 &nbsp; &emsp; `Jan 2018 - May 2018` <strong>&nbsp; Study Hospitality and Restaurant Management </strong> 
-<p style="margin-left: 227px; font-size: 16px;"> Exchanged to Haaga-Helia University of Applied Sciences, Helsinki, Finland </p>
+<p style="margin-left: 227px; font-size: 16px;"> Exchanged to Haaga-Helia University of Applied Sciences, Helsinki </p>
 <p style="line-height:5px;">&emsp;</p>
 
 `July 2018` &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Fundamentals of International Political Economy </strong> 
