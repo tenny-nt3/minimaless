@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Case study: The promotional plan of Kyoto
 tags: promotional-plan
 ---
 
