@@ -50,7 +50,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 `2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Tour guide </strong>
 <p style="margin-left: 225px; "> <strong> Vietravel - Vietnam </strong> </p>
 <li style="margin-left: 20px; "> Out-bound travel: Lead and monitor domestic visitors group from Vietnam to Singapore </li>
-<li style="margin-left: 20px; "> In-bound travel: Lead and monitor the city tour for foreigners traveled to Vietnam </li>
+<li style="margin-left: 20px; "> In-bound travel: Lead and monitor the city tour for foreigners travelling to Vietnam </li>
 <li style="margin-left: 20px; "> Customize the itinerary on the demand of visitors </li>
 <p style="line-height:7px;">&emsp;</p>
 
@@ -65,11 +65,11 @@ I am an enthusiastic learner who is excited to share with the community what I u
 ## Work experience in Marketing
 <p style="line-height:5px;">&emsp;</p>
 
-`2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Marketing Executives </strong>
+`2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Marketing Executive </strong>
 <p style="margin-left: 225px; "> <strong>  Codespot LTD. - Vietnam </strong> </p>
-<li style="margin-left: 20px; "> Copywriter for content of themes produced by the company </li>
+<li style="margin-left: 20px; "> Copywrite content of website templates designed by the company </li>
 <li style="margin-left: 20px; "> Communicate the progress of monthly/quarterly initiatives to internal and external stakeholders </li>
-<li style="margin-left: 20px; "> Communication coordinator between customers and IT developers </li>
+<li style="margin-left: 20px; "> Coordinator between customers and IT developers </li>
 <p style="line-height:7px;">&emsp;</p>
 
 `Oct 2014 - Dec 2015` &emsp; &emsp; <strong> Content writer </strong>
