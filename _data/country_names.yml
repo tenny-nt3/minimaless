@@ -287,7 +287,7 @@
 -
   index: 'map_58'
   country_name: 'GABON'
-  visited: false
+  visited: true
 
 -
   index: 'map_59'
@@ -637,7 +637,7 @@
 -
   index: 'map_128'
   country_name: 'PHILIPPINES'
-  visited: false
+  visited: true
 
 -
   index: 'map_129'
@@ -702,7 +702,7 @@
 -
   index: 'map_141'
   country_name: 'SINGAPORE'
-  visited: false
+  visited: true
 
 -
   index: 'map_142'
@@ -712,7 +712,7 @@
 -
   index: 'map_143'
   country_name: 'SLOVENIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_144'
@@ -732,7 +732,7 @@
 -
   index: 'map_147'
   country_name: 'SOUTH KOREA'
-  visited: false
+  visited: true
 
 -
   index: 'map_148'
@@ -787,7 +787,7 @@
 -
   index: 'map_158'
   country_name: 'TAIWAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_159'
@@ -852,12 +852,12 @@
 -
   index: 'map_171'
   country_name: 'UNITED KINGDOM'
-  visited: true
+  visited: false
 
 -
   index: 'map_172'
   country_name: 'UNITED STATES'
-  visited: true
+  visited: false
 
 -
   index: 'map_173'
@@ -877,7 +877,7 @@
 -
   index: 'map_176'
   country_name: 'VIETNAM'
-  visited: false
+  visited: true
 
 -
   index: 'map_177'
