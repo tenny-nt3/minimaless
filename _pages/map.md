@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Map
+permalink: /map/
 css: [../plugins/travelmap/css/custom.css']
 ---
 
@@ -273,7 +274,7 @@ var pin_config = {
     {
         'shape':'circle',
         'hover': 'I\'m from Danang, Viet Nam',
-        'pos_X':785,
+        'pos_X':810,
         'pos_Y':253,
         'diameter':6,
         'outline':'#FFCECE',
@@ -287,7 +288,7 @@ var pin_config = {
     {
         'shape':'circle',
         'hover': 'I\'m currently located in Paris, France',
-        'pos_X':120,
+        'pos_X':320,
         'pos_Y':650,
         'diameter':6,
         'outline':'#FFCECE',
