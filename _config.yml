@@ -27,6 +27,7 @@ paginate_path: "/page:num/"
 header_pages:
   - _pages/home.md
   - _pages/me.md
+  - _pages/map.md
   - _pages/contact.md
 
 plugins:
