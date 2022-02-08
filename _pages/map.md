@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Map
-permalink: /map/
+permalink: /travelmap/
 css: [../plugins/travelmap/css/custom.css']
 ---
 
