@@ -287,7 +287,7 @@
 -
   index: 'map_58'
   country_name: 'GABON'
-  visited: true
+  visited: false
 
 -
   index: 'map_59'
@@ -335,7 +335,7 @@
   visited: false
 
 -
-  index: 'map_68'
+  index: 'map_68' 
   country_name: 'HAITI'
   visited: false
 
@@ -552,7 +552,7 @@
 -
   index: 'map_111'
   country_name: 'MYANMAR'
-  visited: false
+  visited: true
 
 -
   index: 'map_112'
@@ -767,7 +767,7 @@
 -
   index: 'map_154'
   country_name: 'SWEDEN'
-  visited: false
+  visited: true
 
 -
   index: 'map_155'
