@@ -132,7 +132,7 @@
 -
   index: 'map_27'
   country_name: 'CAMBODIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_28'
@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: false
 
 -
   index: 'map_34'
@@ -202,7 +202,7 @@
 -
   index: 'map_41'
   country_name: 'CZECH REPUBLIC'
-  visited: true
+  visited: false
 
 -
   index: 'map_42'
@@ -272,7 +272,7 @@
 -
   index: 'map_55'
   country_name: 'FINLAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_56'
@@ -397,7 +397,7 @@
 -
   index: 'map_80'
   country_name: 'JAPAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_81'
@@ -492,7 +492,7 @@
 -
   index: 'map_99'
   country_name: 'MALAYSIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_100'
