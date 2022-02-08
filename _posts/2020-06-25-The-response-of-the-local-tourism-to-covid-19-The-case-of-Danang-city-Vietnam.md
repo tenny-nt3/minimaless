@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: covid 19, crisis management, vietnam
+tag: covid-19, vietnam
 ---
 [Dowload PDF](https://www.dropbox.com/s/292s7zbvbbl8qs7/The%20response%20of%20local%20tourism%20to%20COVID-19%2C%20Danang%20city%20VN.pdf?dl=0)
 
