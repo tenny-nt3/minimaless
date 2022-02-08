@@ -294,7 +294,7 @@ var pin_config = {
         'outline':'#FFCECE',
         'thickness':1,
         'upColor':'#ed6f49',
-        'overColor'3:'#5cc5ef',
+        'overColor':'#5cc5ef',
         'downColor':'#D15B2C',
         'enable':true,
     },
