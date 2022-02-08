@@ -274,7 +274,7 @@ var pin_config = {
     {
         'shape':'circle',
         'hover': 'I\'m from Danang, Viet Nam',
-        'pos_X':790,
+        'pos_X':792,
         'pos_Y':240,
         'diameter':6,
         'outline':'#FFCECE',
@@ -288,8 +288,8 @@ var pin_config = {
     {
         'shape':'circle',
         'hover': 'I\'m currently located in Paris, France',
-        'pos_X':550,
-        'pos_Y':600,
+        'pos_X':330,
+        'pos_Y':110,
         'diameter':6,
         'outline':'#FFCECE',
         'thickness':1,
