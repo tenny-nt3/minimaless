@@ -274,7 +274,7 @@ var pin_config = {
     {
         'shape':'circle',
         'hover': 'I\'m from Danang, Viet Nam',
-        'pos_X':797,
+        'pos_X':798,
         'pos_Y':239,
         'diameter':6,
         'outline':'#FFCECE',
