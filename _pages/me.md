@@ -47,20 +47,19 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <li style="margin-left: 20px; "> Brainstorm and propose measures to develop and conserve tourist destinations </li>
 <p style="line-height:7px;">&emsp;</p>
 
-`2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Tour guide </strong>
-<p style="margin-left: 225px; "> <strong> Vietravel - Vietnam </strong> </p>
-<li style="margin-left: 20px; "> Out-bound travel: Lead and monitor domestic visitors group from Vietnam to Singapore </li>
-<li style="margin-left: 20px; "> In-bound travel: Lead and monitor the city tour for foreigners travelling to Vietnam </li>
-<li style="margin-left: 20px; "> Customize the itinerary on the demand of visitors </li>
-<p style="line-height:7px;">&emsp;</p>
-
-`Oct 2019 - Feb 2022` &emsp; &emsp; <strong> Room service (Part-time) </strong>
+`Oct 2019 - Feb 2020` &emsp; &emsp; <strong> Room service (Part-time) </strong>
 <p style="margin-left: 225px; "> <strong> Hotel Nikko - Kyoto, Japan </strong> </p>
 <li style="margin-left: 20px; "> Prepare and set up room amenities </li>
 <li style="margin-left: 20px; "> Deliver orders to guest rooms </li>
 <li style="margin-left: 20px; "> Responsible for maintaining cleanliness for guest rooms </li>
 <p style="line-height:7px;">&emsp;</p>
 
+`2015 - 2016` &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <strong> Tour guide </strong>
+<p style="margin-left: 225px; "> <strong> Vietravel - Vietnam </strong> </p>
+<li style="margin-left: 20px; "> Out-bound travel: Lead and monitor domestic visitors group from Vietnam to Singapore </li>
+<li style="margin-left: 20px; "> In-bound travel: Lead and monitor the city tour for foreigners travelling to Vietnam </li>
+<li style="margin-left: 20px; "> Customize the itinerary on the demand of visitors </li>
+<p style="line-height:7px;">&emsp;</p>
 ---
 ## Work experience in Marketing
 <p style="line-height:5px;">&emsp;</p>
