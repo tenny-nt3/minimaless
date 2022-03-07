@@ -33,7 +33,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 
 `Oct 2009 - Oct 2013` &emsp; &emsp; <strong> BA in Business Adminstration, Minor in Marketing </strong> 
 <p style="margin-left: 225px;"> International University - VNU, Ho Chi Minh, Vietnam </p>
-<p style="margin-left: 225px;"> <strong> Thesis topic: </strong> A study on Vietnamese youth’s permission on SMS adverstising - The case of youth in Ho Chi Minh City</p>
+<p style="margin-left: 225px;"> <strong> Thesis topic: </strong> A study on Vietnamese youth’s permission on SMS advertising - The case of youth in Ho Chi Minh City</p>
 <p style="line-height:5px;">&emsp;</p>
 
 ---
