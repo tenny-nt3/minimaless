@@ -41,7 +41,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <p style="line-height:5px;">&emsp;</p>
 
 `May - July 2020` &emsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <strong> Tourism Data Analyst Intern </strong>
-<p style="margin-left: 225px; "> <strong> TCI Research </strong> </p>
+<p style="margin-left: 225px; "> <strong> TCI Research - Brussels (Belgium) and Angers (France) </strong> </p>
 <li style="margin-left: 20px; "> Assist in questionnaire design, scripting, test and validation with clients </li>
 <li style="margin-left: 20px; "> Fieldwork monitoring and quality control, data checking </li>
 <li style="margin-left: 20px; "> Data check and analysis </li>
