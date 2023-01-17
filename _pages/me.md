@@ -12,8 +12,9 @@ I am an enthusiastic learner who is excited to share with the community what I u
 ## Education
 <p style="line-height:5px;">&emsp;</p>
 
-`Sept 2021 - present` &emsp; &emsp; <strong> Master 2 of Management International Tourism </strong>
+`Sept 2021 - Nov 2022` &emsp; &emsp; <strong> Master 2 of Management International Tourism </strong>
 <p style="margin-left: 225px; "> Université Paris 1 Panthéon-Sorbonne, Paris, France </p>
+<p style="margin-left: 225px;"> <strong> Thesis topic: </strong> Impact Assessment of Covid-19 on tourist guides in Paris and corressponding suporting policies </p>
 <p style="line-height:5px;">&emsp;</p>
 
 `Sept 2016 - Jul 2020` &emsp; &nbsp; <strong> BA in International Tourism and Leisure Industries (ITALI) </strong> 
@@ -40,7 +41,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 ## Work experience in Tourim
 <p style="line-height:5px;">&emsp;</p>
 
-`May - July 2020` &emsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <strong> Tourism Data Analyst Intern </strong>
+`Apr - Oct 2022` &emsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <strong> Tourism Data Analyst Intern </strong>
 <p style="margin-left: 225px; "> <strong> TCI Research - Brussels (Belgium) and Angers (France) </strong> </p>
 <li style="margin-left: 20px; "> Assist in questionnaire design, scripting, test and validation with clients </li>
 <li style="margin-left: 20px; "> Fieldwork monitoring and quality control, data checking </li>
