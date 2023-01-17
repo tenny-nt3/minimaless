@@ -70,6 +70,7 @@ I am an enthusiastic learner who is excited to share with the community what I u
 <li style="margin-left: 20px; "> In-bound travel: Lead and monitor the city tour for foreigners travelling to Vietnam </li>
 <li style="margin-left: 20px; "> Customize the itinerary on the demand of visitors </li>
 <p style="line-height:7px;">&emsp;</p>
+
 ---
 ## Work experience in Marketing
 <p style="line-height:5px;">&emsp;</p>
