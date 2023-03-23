@@ -287,9 +287,9 @@ var pin_config = {
     
     {
         'shape':'circle',
-        'hover': 'I\'m currently located in Paris, France',
-        'pos_X':455,
-        'pos_Y':120,
+        'hover': 'I\'m currently located in Nice, France',
+        'pos_X':465,
+        'pos_Y':100,
         'diameter':6,
         'outline':'#FFCECE',
         'thickness':1,
