@@ -72,7 +72,7 @@
 -
   index: 'map_15'
   country_name: 'BELGIUM'
-  visited: false
+  visited: true
 
 -
   index: 'map_16'
@@ -567,7 +567,7 @@
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
